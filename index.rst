@@ -5,7 +5,7 @@
 
    README.md
    docs/1. About keyestudio/About keyestudio.md
-   docs/Russian download.md
+   docs/Russian download/Russian download.md
    docs/2. Tutorial for Arduino/2. Getting Started With Arduino/How to Add a Library.md
    docs/2. Tutorial for Arduino/2. Getting Started With Arduino/How to Install Software And Driver.md
    docs/2. Tutorial for Arduino/3. Tutorial/KS0085 Keyestudio Smart Home Kit for Arduino.md
