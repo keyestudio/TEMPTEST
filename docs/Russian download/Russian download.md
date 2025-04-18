@@ -2,4 +2,4 @@
 
 if you need Russian materials,please click to download:
 
-[Russian Tutorial](./RussianTutorial.7z)
+[Russian Tutorial](./Russian.7z)
