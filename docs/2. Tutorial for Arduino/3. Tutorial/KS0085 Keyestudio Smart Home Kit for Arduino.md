@@ -1,12 +1,12 @@
 
 
-# **Keyestudio Smart Home Kit for Arduino**
+# **5. Keyestudio Smart Home Kit for Arduino**
 
 ![image-20230523152355702](arduino/media/image-20230523152355702.png)
 
 
 
-## 1.Overview:
+## 5.1 Overview:
 
 ![image-20250416145232275](media/image-20250416145232275.png)
 
@@ -23,7 +23,7 @@ So, go ahead and get started; let's build this amazing analog smart home.
 
 
 
-## 2.Kit list
+## 5.2 Kit list
 
 After getting this smart home kit, we need to make sure that there are not missing components.
 
@@ -68,7 +68,7 @@ After getting this smart home kit, we need to make sure that there are not missi
 
 
 
-## **3. Download Software & Install Driver**
+## 5.3 Download Software & Install Driver
 
 ### **(1) Download Software**
 
@@ -208,7 +208,7 @@ Congratulation,you finish the first program.
 
 
 
-## **4.HowtoAddaLibrary?**
+## **5.4 HowtoAddaLibrary?**
 
 What are Libraries ?
 
@@ -248,7 +248,7 @@ The library of smart home is successfully installed,as shown below:
 
 
 
-## **5.Projects**
+## **5.5 Projects**
 
 ![](media/1dfed548560b06e51f83a1b2d1c71558.jpeg)
 
@@ -2661,7 +2661,7 @@ Upload the test code, stack expansion board on PLUS Control Board, and power on.
 
 
 
-## 6 Related Resources
+## 5.6 Related Resources
 
 Wiki page: <https://wiki.keyestudio.com/Main_Page>
 

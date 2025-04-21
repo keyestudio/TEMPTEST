@@ -2,7 +2,7 @@
 
 
 
-## **About keyestudio**
+# 1. **About keyestudio**.
 
 Located in Shenzhen, the Silicon Valley of China, KEYES DIY ROBOT co.,LTD is a thriving technology company dedicated to open-source hardware research and development, production and marketing. 
 
@@ -38,7 +38,7 @@ For more details of our products, you can check it from the links below.
 
 
 
-### **Customer Service**
+## 1.1**Customer Service**
 
 As a continuous and fast growing technology company, we keep striving our best to offer you excellent products and quality service as to meet your expectation. 
 
@@ -50,7 +50,7 @@ Thank you in advance.
 
 
 
-### **How to Contact Us?**
+## 1.2**How to Contact Us?**
 
 **Shenzhen KEYES DIY ROBOT co., Ltd.** 
 

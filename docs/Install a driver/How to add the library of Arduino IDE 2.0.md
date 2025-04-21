@@ -1,4 +1,4 @@
-# 1.Windows
+# 14. Windows
 
 ![image-20250417111005615](media/image-20250417111005615.png)
 
@@ -34,7 +34,7 @@ Open device manager,you will find the yellow exclamation mark disappear.The driv
 
 
 
-# 2.MAC system
+# 15. MAC system
 
 ![image-20250417112110997](media/image-20250417112110997.png)
 

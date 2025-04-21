@@ -1,4 +1,4 @@
-## How to add the library of Arduino IDE2.0
+## 16. How to add the library of Arduino IDE2.0
 
 Go to Sketch---->Include Library—>Add.ZIPLibrary，then the library will be
 
@@ -15,4 +15,3 @@ Click Open to add it.Let’s take the IRremoteTank.zip as an example.
 Import the library.Check it in the include library
 
 ![image-20250417113653751](media/image-20250417113653751.png)
-

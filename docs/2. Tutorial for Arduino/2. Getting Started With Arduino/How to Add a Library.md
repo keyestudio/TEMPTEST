@@ -1,4 +1,4 @@
-# **1. How to Add a Library?**
+# **2. How to Add a Library?**
 
 What are Libraries ?
 

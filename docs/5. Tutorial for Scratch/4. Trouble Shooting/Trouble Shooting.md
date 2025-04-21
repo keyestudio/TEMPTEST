@@ -1,4 +1,4 @@
-# Trouble Shooting
+# 13. Trouble Shooting
 
 #### 1. The smart home does not response.                                               
 A: 
@@ -20,9 +20,8 @@ Please disconnect Bluetooth when burning programs, otherwise the code fails to b
 A: 
 （1）Before installing the window servo, please reset it to 90° to avoid blocking and burning when executing programs.
 （2）When installing window, please tighten the self-locking nuts too much to guarantee the slip of the window. Otherwise, servo may be burning hot for blocking. 
-![Img](/media/img-20230322135411.png)
-![Img](/media/img-20230322135416.png)
-
+![Img](media/img-20230322135411.png)
+![Img](media/img-20230322135416.png)
 
 
 
