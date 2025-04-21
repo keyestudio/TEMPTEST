@@ -16,8 +16,8 @@
    docs/5. Tutorial for Scratch/3. Scratch Tutorial/1. Development Environment Configuration/3. KidsBlock Installation--MacOS.md
    docs/5. Tutorial for Scratch/3. Scratch Tutorial/1. Development Environment Configuration/4. KidsBlock Using and Driver Installation.md
    docs/5. Tutorial for Scratch/4. Trouble Shooting/Trouble Shooting.md
-   docs/Install a driver/How to add the library of Arduino IDE 2.0.md
    docs/Install a driver/How to install the driver
+   docs/Install a driver/How to add the library of Arduino IDE 2.0.md
    docs/Russian download/Russian download.md
 
 
