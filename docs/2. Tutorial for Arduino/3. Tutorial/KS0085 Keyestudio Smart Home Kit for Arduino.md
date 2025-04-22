@@ -1,6 +1,6 @@
 
 
-# **5. Keyestudio Smart Home Kit for Arduino**
+# 5. Keyestudio Smart Home Kit for Arduino
 
 ![image-20230523152355702](arduino/media/image-20230523152355702.png)
 

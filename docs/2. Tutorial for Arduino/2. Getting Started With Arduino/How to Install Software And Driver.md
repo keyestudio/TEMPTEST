@@ -1,4 +1,4 @@
-# **3. How to Install Software And Driver**
+# 3. How to Install Software And Driver
 
 When we get control board, we need to download Arduino IDE and driver firstly. 
 
@@ -22,7 +22,7 @@ And when the ZIP file is downloaded,you can directly unzip and start it.
 
 
 
-# **4. Installing driver**
+# 4. Installing driver
 
 Let’s install the driver of keyestudio PLUS control board.
 

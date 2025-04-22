@@ -18,6 +18,7 @@
    docs/5. Tutorial for Scratch/4. Trouble Shooting/Trouble Shooting.md
    docs/Install a driver/How to install the driver
    docs/Install a driver/How to add the library of Arduino IDE 2.0.md
+   docs/Mixly/KS0085Mixly.md
    docs/Russian download/Russian download.md
 
 
