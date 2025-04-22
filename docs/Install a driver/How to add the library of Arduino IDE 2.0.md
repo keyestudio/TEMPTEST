@@ -1,4 +1,4 @@
-## 15. How to add the library of Arduino IDE2.0
+## 14. How to add the library of Arduino IDE2.0
 
 Go to Sketch---->Include Library—>Add.ZIPLibrary，then the library will be
 

@@ -1,12 +1,12 @@
 
 
-# 5. Keyestudio Smart Home Kit for Arduino
+# 4. Keyestudio Smart Home Kit for Arduino
 
 ![image-20230523152355702](arduino/media/image-20230523152355702.png)
 
 
 
-## 5.1 Overview:
+## 4.1 Overview:
 
 ![image-20250416145232275](media/image-20250416145232275.png)
 
@@ -23,7 +23,7 @@ So, go ahead and get started; let's build this amazing analog smart home.
 
 
 
-## 5.2 Kit list
+## 4.2 Kit list
 
 After getting this smart home kit, we need to make sure that there are not missing components.
 
@@ -68,9 +68,9 @@ After getting this smart home kit, we need to make sure that there are not missi
 
 
 
-## 5.3 Download Software & Install Driver
+## 4.3 Download Software & Install Driver
 
-### **(1) Download Software**
+### (1) Download Software
 
 When we get control board, we need to download Arduino IDE and driver firstly. 
 
@@ -94,7 +94,7 @@ The <font color="0000FF">**Windows installer** </font>needs installing manually.
 
 
 
-### **(2) Keyestudio PLUS Development Board**
+### (2) Keyestudio PLUS Development Board
 
 ![image-20250416152440165](media/image-20250416152440165.png)
 
@@ -116,7 +116,7 @@ IIC communication port: A4 is SDA, A5 is SCL
 
 
 
-### **(3) Installing Driver**
+### (3) Installing Driver
 
 Let’s install the driver of keyestudio PLUS control board.
 
@@ -208,7 +208,7 @@ Congratulation,you finish the first program.
 
 
 
-## **5.4 HowtoAddaLibrary?**
+## 4.4 HowtoAddaLibrary?
 
 What are Libraries ?
 
@@ -248,7 +248,7 @@ The library of smart home is successfully installed,as shown below:
 
 
 
-## **5.5 Projects**
+## 4.5 Projects
 
 ![](media/1dfed548560b06e51f83a1b2d1c71558.jpeg)
 
@@ -1689,7 +1689,7 @@ The function of corresponding character and button is shown below:
 
 ![](media/6465465654.jpeg)
 
-### **Assembly Guide**
+### Assembly Guide
 
 Check the board A\~I and parts in the first place.
 
@@ -2661,7 +2661,7 @@ Upload the test code, stack expansion board on PLUS Control Board, and power on.
 
 
 
-## 5.6 Related Resources
+## 4.6 Related Resources
 
 Wiki page: <https://wiki.keyestudio.com/Main_Page>
 

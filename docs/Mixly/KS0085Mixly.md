@@ -1,11 +1,11 @@
-# **16. Mixly Tutorial**
+# 15. Mixly Tutorial
 
 ![](mixly/media/6d044e8a930f59e98d4c4ac801160c7e.png)
 
 Note: when you get this kit, you need to confirm to use 9V voltage to drive smart home to work.
 
 
-## **Download Mixly Software**
+## 15.1 Download Mixly Software
 
 **Instruction**
 
@@ -39,7 +39,7 @@ Then select correct COM port（the corresponding COM port will be shown after su
 
 ![](mixly/media/e20934e6965430806e473a124cbff01b.png)
 
-## Install PLUS Development Board Driver
+## 15.2 Install PLUS Development Board Driver
 
 ![](mixly/media/dfe50fbafbd9a114c782b69cd6d9dd44.png)
 
@@ -109,7 +109,7 @@ If without errors, click“Upload”to upload program.
 
 LED blinks, and your first program is finished.
 
-## Projects
+## 15.3 Projects
 
 ![](mixly/media/1dfed548560b06e51f83a1b2d1c71558.jpeg)
 
@@ -1811,7 +1811,7 @@ The function of corresponding characters and buttons are shown below:
 
 ![](mixly/media/ac1b1a06c5597fd684fc4dc0f6e90b6b.jpeg)
 
-### **Assembly Guide**
+### Assembly Guide
 
 Check the board A\~I and parts in the first place.
 

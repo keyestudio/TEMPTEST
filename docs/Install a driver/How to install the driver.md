@@ -1,4 +1,6 @@
-# 14. Windows
+# 13. How to install the driver
+
+## 13.1 Window
 
 ![image-20250417111005615](media/image-20250417111005615.png)
 
@@ -34,7 +36,7 @@ Open device manager,you will find the yellow exclamation mark disappear.The driv
 
 
 
-# 15. MAC system
+## 13.2 MAC system
 
 ![image-20250417112110997](media/image-20250417112110997.png)
 

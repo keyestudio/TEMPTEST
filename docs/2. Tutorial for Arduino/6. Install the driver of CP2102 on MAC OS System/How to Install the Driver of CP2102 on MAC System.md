@@ -1,4 +1,4 @@
-## 6. How to Install the Driver of CP2102 on MAC System
+## 5. How to Install the Driver of CP2102 on MAC System
 
 Connect board we provide to your computer, and open Arduino IDE
 

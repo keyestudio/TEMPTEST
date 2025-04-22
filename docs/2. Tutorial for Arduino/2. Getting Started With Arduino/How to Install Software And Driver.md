@@ -22,7 +22,7 @@ And when the ZIP file is downloaded,you can directly unzip and start it.
 
 
 
-# 4. Installing driver
+## Installing driver
 
 Let’s install the driver of keyestudio PLUS control board.
 

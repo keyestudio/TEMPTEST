@@ -38,7 +38,7 @@ For more details of our products, you can check it from the links below.
 
 
 
-## 1.1**Customer Service**
+## 1.1Customer Service
 
 As a continuous and fast growing technology company, we keep striving our best to offer you excellent products and quality service as to meet your expectation. 
 
@@ -50,7 +50,7 @@ Thank you in advance.
 
 
 
-## 1.2**How to Contact Us?**
+## 1.2How to Contact Us?
 
 **Shenzhen KEYES DIY ROBOT co., Ltd.** 
 

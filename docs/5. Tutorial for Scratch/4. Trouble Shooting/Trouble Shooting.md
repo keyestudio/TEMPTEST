@@ -1,4 +1,4 @@
-# 13. Trouble Shooting
+# 12. Trouble Shooting
 
 #### 1. The smart home does not response.                                               
 A: 

@@ -1,4 +1,4 @@
-# 7. Assembly Guide
+# 6. Assembly Guide
 
 Check the board A\~I and parts in the first place.
 
