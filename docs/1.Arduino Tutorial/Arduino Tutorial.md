@@ -32,7 +32,7 @@
 
 ## 2. Download code
 
-Please download the code :[Arduino Code](./ArduinoCode.7z)
+Please download the code :[ArduinoCode](./ArduinoCode.7z)
 
 ---
 

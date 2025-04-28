@@ -21,7 +21,7 @@ Arduino Tutorial
    :alt: 01
 
 3. **Please download the libraries first
-   ：**\ `Libraries </api/attachment/Libraries.zip?repo=__root__C:\&path=%2FUsers%2FAdministrator%2FDesktop%2F556%2FTEMPTEST1%2Fdocs%2F1.Arduino%20Tutorial%2FLibraries.zip>`__
+   ：**\ `Libraries </api/attachment/Libraries.zip?repo=__root__C:\&path=%2FUsers%2FAdministrator%2FDesktop%2F%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9%20(5)%2FTEMPTEST%2Fdocs%2F1.Arduino%20Tutorial%2FLibraries.zip>`__
 
    `How to install
    libraries <https://getting-started-with-arduino.readthedocs.io/en/latest/Arduino%20IDE%20Tutorial.html#import-library>`__

@@ -53,7 +53,8 @@ Interface：
 ## 2. Download code
 
 Please download the code:
-:download:[KidsBlock Code](./KidsBlockCode.7z)
+
+[KidsBlockCode](./KidsBlockCode.7z)
 
 ---
 
