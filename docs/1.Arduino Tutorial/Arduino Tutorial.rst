@@ -51,7 +51,7 @@ Arduino Tutorial
 ----------------
 
 Please download the code :
-:download:`Arduino Code<./ArduinoCode.7z>`
+:download:`Arduino Code <./ArduinoCode.7z>`
 
 --------------
 

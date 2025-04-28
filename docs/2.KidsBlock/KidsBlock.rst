@@ -73,7 +73,7 @@ Interface：
 ----------------
 
 Please download the code:
-:download:`KidsBlock Code<./KidsBlockCode.7z>`
+:download:`KidsBlock Code <./KidsBlockCode.7z>`
 --------------
 
 .. _3.-Single-Module-Learning:
