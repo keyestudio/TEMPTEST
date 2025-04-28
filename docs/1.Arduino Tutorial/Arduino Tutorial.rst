@@ -50,7 +50,8 @@ Arduino Tutorial
 2. Download code
 ----------------
 
-Please download the code :`Arduino Code<./ArduinoCode.7z>`
+Please download the code :
+:download:`Arduino Code<./ArduinoCode.7z>`
 
 --------------
 

@@ -52,7 +52,8 @@ Interface：
 
 ## 2. Download code
 
-Please download the code:[KidsBlock Code](./KidsBlockCode.7z)
+Please download the code:
+:download:[KidsBlock Code](./KidsBlockCode.7z)
 
 ---
 
